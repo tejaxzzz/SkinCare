@@ -1,15 +1,10 @@
 
-# 🌿 Skincare Landing Page
+#  Skincare Landing Page
 
 A modern, responsive, and animated skincare brand landing page built with React, Tailwind CSS, and GSAP. Designed to closely match a Figma design with premium scroll animations, interactive elements, and clean layout transitions across all devices.
 
 ---
 
-## Live url of skincare landing page
-
-[live url](https://skincare-landing-page.vercel.app/)
-
----
 
 ## 📦 Tech Stack
 
@@ -133,7 +128,3 @@ Visit `http://localhost:5173` or the port your dev server shows.
 - **Animations**: Powered by [GSAP](https://greensock.com/gsap/)
 
 ---
-
-## 📃 License
-
-This project is for educational and showcase purposes. Not for commercial reuse unless permitted.
